@@ -7,8 +7,10 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
-    @Test void appHasAGreeting() {
+    @Test void convertUnitsTest() {
         App classUnderTest = new App();
-        assertNotNull(classUnderTest.getGreeting(), "app should have a greeting");
+        assertEquals(0.0254, classUnderTest.convertUnits(1, "in", "m"));
+        assertEquals(0.3048, classUnderTest.convertUnits(1, "ft", "m"));
+        assertEquals(1609.344, classUnderTest.convertUnits(1, "mi", "m"));
     }
 }

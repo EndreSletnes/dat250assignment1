@@ -26,6 +26,9 @@ dependencies {
 
     // Javalin dependency
     implementation("io.javalin:javalin:5.6.2")
+
+    // slf4j dependency
+    implementation("org.slf4j:slf4j-simple:2.0.7")
 }
 
 // Apply a specific Java toolchain to ease working on different environments.
