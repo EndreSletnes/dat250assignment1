@@ -16,3 +16,8 @@ Did the same things again using bulkWrite()
 The tutorial on map-reduce functions:
 ![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/001597bd-0f72-4be1-bad6-e0d8d4986029)
 
+My own operation. It goes through all the customers and gives a list of all the itams they have purchased.This is useful for analyzing purchase habits for customers. The collection obtained has all the usernames and a list of all their respective items purchased.
+![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/8e230d97-10f5-4b37-acc0-5df392087c75)
+
+## Technical Problems
+* No technical problems
