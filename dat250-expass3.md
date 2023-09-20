@@ -2,9 +2,17 @@
 
 ## Tasks
 * Validation:
-  ![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/1a0710de-6a9c-4e9a-805b-91240ea42bbe)
+  ![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/13c804f1-fe5e-433d-9091-151066365331)
+## Experiment 1
+Did the same for insertMany().
+![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/c6b168b7-16e0-42e8-a634-5bbfbe099871)
+Used the testdata from the toturial
+![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/a6f7ae68-d3ee-4408-89e1-314277942905)
+![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/40a285b4-de42-4fd5-84f0-68147e5a1c54)
+![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/256d1311-6e81-408a-9a12-d022d9a78cf6)
+Did the same things again using bulkWrite()
 
-### Experiment 1
-* ![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/2c4da491-a959-4482-9189-21355a1b2687)
-* 
+## Experiment 2
+The tutorial on map-reduce functions:
+![bilde](https://github.com/EndreSletnes/dat250assignment1/assets/81162433/001597bd-0f72-4be1-bad6-e0d8d4986029)
 
